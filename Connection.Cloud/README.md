@@ -1,10 +1,10 @@
-##Description of library: 
+## Description of library: 
 This library is enabeling you to send infos to a cloud using your computer as a gateway.
 
-##What type of library (SW/HW)
+## What type of library (SW/HW)
 SW 
 
-##Referenced libraries
+## Referenced libraries
 SE.AppBase
 
 How to use it : 
