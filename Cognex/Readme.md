@@ -1,10 +1,10 @@
-##Description of library: 
+## Description of library: 
 This library is created to be able to use Cognex equipment easily, such as Cameras insight 2800, Dataman ...
 
-##What type of library (SW/HW)
+## What type of library (SW/HW)
 SW 
 
-##Referenced libraries
+## Referenced libraries
 Runtime.Base
 SE.AppBase
 
