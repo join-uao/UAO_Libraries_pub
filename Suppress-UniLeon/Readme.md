@@ -6,7 +6,7 @@ The tool is developed by [SUPPRESS Research Group](https://suppress.unileon.es/e
 
 ## How it works
 
-![Architecture](architecture.png)
+![Architecture](V24.0/architecture.png)
 
 The tool integrates Python code with Function Blocks (FBs) as follows:
 
