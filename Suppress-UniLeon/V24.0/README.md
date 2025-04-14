@@ -1,4 +1,4 @@
-# python61499
+# python61499 V24.0
 
 This is a Python tool (licensed under Apache 2.0) to integrate high-level code with IEC 61499 standard, specifically with ***EchoStruxure Automation Expert*** (Schneider Electric).
 
