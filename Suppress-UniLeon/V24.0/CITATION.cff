@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: python61499
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Guzmán
+    family-names: González
+    email: ggonzm@unileon.es
+    affiliation: University of León
+    orcid: 'https://orcid.org/0000-0002-2130-7867'
+  - given-names: Antonio
+    family-names: Morán
+    email: a.moran@unileon.es
+    affiliation: University of León
+    orcid: 'https://orcid.org/0000-0002-2762-6949'
+  - given-names: Miguel Ángel
+    family-names: Prada Medrano
+    email: ma.prada@unileon.es
+    affiliation: University of León
+    orcid: 'https://orcid.org/0000-0002-1563-1556'
+  - given-names: Manuel
+    family-names: Dominguez Gonzalez
+    email: mdomg@unileon.es
+    affiliation: University of León
+    orcid: 'https://orcid.org/0000-0002-3921-1599'
+identifiers:
+  - type: doi
+    value: 10.1016/j.ifacol.2024.08.016
+year: 2024
+repository-code: 'https://github.com/suppress-unileon/python61499'
+abstract: >-
+  This is a Python tool to integrate high-level code with
+  IEC 61499 standard, specifically with EchoStruxure
+  Automation Expert (Schneider Electric).
